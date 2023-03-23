@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+div{
+ border:2px solid black;
+ width:95px;
+ height:100px;
+ padding:90px;
+ margin:100px;
+ background:lightblue;
+}
+p{
+ position:center;
+}
